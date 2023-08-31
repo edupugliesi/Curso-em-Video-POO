@@ -9,7 +9,7 @@ public class ControleRemoto implements Controlador {
     //Construtores
     public ControleRemoto() {
         this.volume = 50;
-        this.ligado = false;
+        this.ligado = true;
         this.tocando = false;
     }
     
